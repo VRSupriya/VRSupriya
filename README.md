@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**VRSupriya/VRSupriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me  
 
-Here are some ideas to get you started:
+- 💼 **Current Focus:** Building **LLM-powered platforms** with **LangChain**, **LangGraph**, and **RAG** architectures  
+- ⚙️ **Tech Stack:** Python, FastAPI, PyTorch, TensorFlow, Databricks, Azure AI/ML, LangChain, vLLM, Hugging Face  
+- 🧩 **Specialties:**  
+  - LLM fine-tuning with **LoRA/PEFT/QLoRA**  
+  - **Prompt Engineering** & multi-turn context management  
+  - **Multi-agent orchestration** and contextual grounding with **LangGraph**  
+  - Conversational AI (Chatbots, Voice Assistants)  
+  - **MLOps pipelines** on Azure and Databricks  
+- 🧪 **Research Interests:** Quantum Computing & Quantum Generative AI  
+- 🏆 **Patent Holder** – Knowledge Graph Representation System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with Me  
+
+- 📧 **Email:** supriyavraman@gmail.com  
+- 🌐 **LinkedIn:** [linkedin.com/in/vsupriya](https://linkedin.com/in/vsupriya)  
+
+---
+
+⭐ _“I’m passionate about building AI systems that bridge innovation and impact — from intelligent automation to quantum-inspired solutions.”_  
