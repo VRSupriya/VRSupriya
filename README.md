@@ -17,7 +17,6 @@
 
 ## 📫 Connect with Me  
 
-- 📧 **Email:** supriyavraman@gmail.com  
 - 🌐 **LinkedIn:** [linkedin.com/in/vsupriya](https://linkedin.com/in/vsupriya)  
 
 ---
